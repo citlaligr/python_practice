@@ -1,18 +1,27 @@
 # 🧠 Exercise: Tuple Access
 
 ## 📝 Problem
-Create a tuple named `person` that contains:
-- a name (string)
-- an age (integer)
-- a height (float)
+Practice working with tuples by storing and accessing structured data.
 
-Using the values:
-- "Rahul", 25, 5.9
+## Requirements
+- Create a tuple named `person` that includes:
+  - Name (string)
+  - Age (integer)
+  - Height (float)
 
-Print the second element of the tuple.
+- Use the values:
+  - "Rahul", 25, 5.9
 
-## Expected Output 
-Age: 25
+- Access and display the second element of the tuple.
+
+## Expected Output
+25
+
+## Concepts Practiced
+- Tuples
+- Indexing
+- Data types
+
 
 ---
 
