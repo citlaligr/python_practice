@@ -24,7 +24,7 @@ Work with a tuple to store basic personal information and explore its immutabili
 Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution 
-
+```python
 person=("Rahul", 25, 5.9)
 print(f"Age: {person[1]}")
 try:
