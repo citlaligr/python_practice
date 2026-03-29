@@ -20,7 +20,7 @@ Total number of lines: 5
 
 ## Source
 Exercise inspired by a Python course on Udemy.
-
+ 
 ## 💻 Solution
 ```pyton
 #First Approach
