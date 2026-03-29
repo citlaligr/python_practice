@@ -30,7 +30,7 @@ Division: 10 / 5 = 2.0
 Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution
-
+```python
 #Creating a class
 class BasicCalculator:
     #Defining a constructor
