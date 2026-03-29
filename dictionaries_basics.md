@@ -1,23 +1,33 @@
 
-# 🧠 Exercise: Understanding Dictionaries
+# 🧠 Exercise: Working with Dictionaries
 
 ## 📝 Problem
-Create a dictionary named car with the following keys: make, model, year, and color. Assign appropriate values to each key.
-	"make": "Toyota",
-	"model": "Camry",
-	"year": 2020,
-	"color": "Blue"
+Practice using dictionaries to store and manipulate structured data.
 
-Print the value associated with the model key.
-Add a new key called owner and assign it the name "Rahul".
-Print the entire dictionary.
+## Requirements
+- Create a dictionary named `car` with the following keys:
+  - `make`
+  - `model`
+  - `year`
+  - `color`
 
+- Assign appropriate values to each key.
+- Access and display the value associated with the `model` key.
+- Add a new key `owner` with a string value.
+- Print the complete dictionary.
 
-## Expected Output 
-First fruit: apple
-Last fruit: elderberry
-Fruits from index 1 to 2: ['banana', 'cherry']
+## Expected Output
+Camry  
+{'make': 'Toyota', 'model': 'Camry', 'year': 2020, 'color': 'Blue', 'owner': 'Rahul'}
 
+## Concepts Practiced
+- Dictionaries
+- Key-value pairs
+- Accessing values
+- Updating dictionaries
+
+## Source
+Exercise inspired by a Python course on Udemy.
 ---
 
 ## 💻 Solution
