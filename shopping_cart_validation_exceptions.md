@@ -27,7 +27,7 @@ Cannot add a negative number of items.
 Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution 
-
+```python
 #create variable
 ItemsInCart=0
 #create a funcion that receive an integer parameter 
