@@ -1,18 +1,25 @@
-# 🧠 Exercise: Average Calculator
+# 🧠 Exercise: Function with Parameters - Average Calculation
 
 ## 📝 Problem
+Practice creating functions that accept parameters and return calculated results.
 
-Objective: Calculate the average of three numbers.
+## Requirements
+- Define a function named `CalculateAverage` that takes three numeric parameters.
+- Compute the average of the provided values.
+- Return the calculated result.
+- Call the function using sample values and display the output.
 
-Instructions:
-
-Create a function called CalculateAverage that takes three parameters: num1, num2, and num3.
-Use the numbers 10,20,30 as input to functions
-The function should return the average of these three numbers.
-
-## Expected Output 
-
+## Expected Output
 The average of 10, 20, and 30 is 20.0
+
+## Concepts Practiced
+- Functions
+- Parameters
+- Return values
+- Arithmetic operations
+
+## Source
+Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution 
 
