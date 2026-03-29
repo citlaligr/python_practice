@@ -1,4 +1,4 @@
-# 🧠 Exercise: Count Lines in a File
+# 🧠 Exercise: Shopping Cart Validation
 
 ## 📝 Problem
 
