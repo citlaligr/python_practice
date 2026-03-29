@@ -1,29 +1,30 @@
 # 🧠 Exercise: Shopping Cart Validation
 
 ## 📝 Problem
+Simulate a simple shopping cart system with validation rules to control item additions.
 
-Instructions:
+## Requirements
+- Initialize a variable `items_in_cart` with a value of 0.
+- Create a function `add_to_cart` that receives the number of items to add.
+- Validate the following conditions:
+  - Do not allow negative values.
+  - Limit the total number of items in the cart to a maximum of 5.
+- Raise appropriate exceptions when validation rules are violated.
+- Display the updated cart status when items are successfully added.
 
-Create a variable ItemsInCart and initialize it to 0.
-Write a function called add_to_cart that accepts an integer parameter items_to_add.
-If items_to_add is less than 0, raise an exception with the message "Cannot add a negative number of items."
-If the total count of items after addition exceeds 5, raise an exception with the message "Cart limit exceeded."
-
-# Example function structure
-def add_to_cart(items_to_add):
-    # Your code here
-# Example of using the function
-
-try:
-    add_to_cart(2)  # Add 2 items
-    add_to_cart(-1)  # This should raise an exception
-except Exception as e:
-    print(e)
-	
-## Expected Output 
-
-2 items added. Total in cart: 2
+## Expected Output
+2 items added. Total in cart: 2  
 Cannot add a negative number of items.
+
+## Concepts Practiced
+- Functions
+- Parameters
+- Global variables
+- Conditional statements
+- Exception handling
+
+## Source
+Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution 
 
@@ -43,9 +44,6 @@ def add_to_cart(items_to_add):
     ItemsInCart += items_to_add 
     #printing the total 
     print(f"{items_to_add} items added. Total in cart: {ItemsInCart}")    
- 
- 
- 
  
 #Try/Except 
 
