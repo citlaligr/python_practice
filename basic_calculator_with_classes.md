@@ -1,31 +1,33 @@
-# 🧠 Exercise: Understanding class creation in Python
+# 🧠 Exercise: Basic Calculator Class (OOP)
 
 ## 📝 Problem
+Practice object-oriented programming by creating a class that performs basic arithmetic operations.
 
-Objective: Create a basic calculator class to perform addition, subtraction, multiplication, and division.
+## Requirements
+- Create a class named `BasicCalculator`.
+- Define a constructor to initialize two numeric values.
+- Implement methods for the following operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Each method should return the result of the operation.
+- Create an instance of the class and demonstrate the use of each method.
 
-Instructions:
+## Expected Output
+Addition: 10 + 5 = 15  
+Subtraction: 10 - 5 = 5  
+Multiplication: 10 * 5 = 50  
+Division: 10 / 5 = 2.0  
 
-Create a class named BasicCalculator.
-Define a constructor that initializes two numbers. Use numbers 10 & 5
-Implement methods for:
+## Concepts Practiced
+- Classes and objects
+- Constructors (`__init__`)
+- Methods
+- Object-oriented programming (OOP)
 
-	- Addition
-	- Subtraction
-	- Multiplication
-	- Division
-
-Each method should return the result of the operation.
-
-Create an instance of the BasicCalculator class and demonstrate the functionality of each method.
-
-
-## Expected Output 
-
-Addition: 10 + 5 = 15
-Subtraction: 10 - 5 = 5
-Multiplication: 10 * 5 = 50
-Division: 10 / 5 = 2.0
+## Source
+Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution
 
