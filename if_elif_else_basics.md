@@ -35,18 +35,18 @@ Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution
 ```python
-user=16 
-#user=7 to print "Good Morning"  
-if user>=5 and user<=11:
+hour=16 
+#hour=7 to print "Good Morning"  
+if hour>=5 and hour<=11:
     print("Good Morning")
-#current case user=16  
-elif user>=12 and user<=17:
+#current case hour=16  
+elif hour>=12 and hour<=17:
     print("Good Afternoon")
-#user=20 to print "Good Evening"  
-elif user>=18 and user<=21:
+#hour=20 to print "Good Evening"  
+elif hour>=18 and hour<=21:
     print("Good Evening")
 else:
-#user=23 to print "Good Night"    
+#hour=23 to print "Good Night"    
     print("Good Night")
 #the line below is printed always    
 print("Greeting code has completed.")
