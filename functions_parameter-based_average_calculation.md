@@ -22,7 +22,7 @@ The average of 10, 20, and 30 is 20.0
 Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution 
-
+```python
 #Creation of a funcion where num1, num2, num3 are recieved as parameters
 def CalculateAverage(num1, num2, num3):
     #new variable that is going to receive the average result
