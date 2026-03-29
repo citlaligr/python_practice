@@ -38,7 +38,7 @@ Basic exercises to practice core Python concepts:
 - 📦 dictionaries_basics.md  
 - 🧩 tuple_immutability.md  
 - 🏗️ basic_calculator_class.md
-
+- 💰 tip_calculator.md
 *(More exercises will be added as learning progresses.)*
 
 ---
