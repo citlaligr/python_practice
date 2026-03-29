@@ -28,6 +28,7 @@ Camry
 
 ## Source
 Exercise inspired by a Python course on Udemy.
+
 ---
 
 ## 💻 Solution
