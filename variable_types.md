@@ -1,25 +1,27 @@
-# 🧠 Exercise: Working with Lists
-
 ## 📝 Problem
-Create three variables: age, height, and favorite_color. Assign them values 25, 5.9, blue:
-	- age: an integer (e.g., 25)
-	- height: a float (e.g., 5.9)
-	- favorite_color: a string (e.g., "blue")
-	
-Use the print function to display each variable and its type using the type() function.
+Create variables to store personal information, including age, height, and favorite color.
 
-## Expected Output 
+## Requirements
+- `age`: integer value (e.g., 25)
+- `height`: float value (e.g., 5.9)
+- `favorite_color`: string value (e.g., "blue")
 
+Display each variable along with its data type using the `type()` function.
+
+## Expected Output
 Age: 25 | Type: <class 'int'>
 Height: 5.9 | Type: <class 'float'>
 Favorite Color: blue | Type: <class 'str'>
+
+## Source
+Exercise inspired by a Python course on Udemy.
 	
 ## 💻 Solution
 ```python
 
-age=25
-height=5.9
-favorite_color="blue"
+age=17
+height=4.5
+favorite_color="yellow"
 
 print(f"Age: {age} | Type:{type(age)}")
 print(f"Height: {height} | Type:{type(height)}")
