@@ -22,7 +22,7 @@ Total number of lines: 5
 Exercise inspired by a Python course on Udemy.
  
 ## 💻 Solution
-```pyton
+```python
 #First Approach
 #This solution is better for big files
 
