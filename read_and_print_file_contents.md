@@ -21,7 +21,7 @@ Exercise inspired by a Python course on Udemy.
 
 
 ## 💻 Solution
-
+```python
 #opening the file and asign to an object
 file = open("myfile.txt")
 #print the file with the function read()
