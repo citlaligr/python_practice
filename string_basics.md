@@ -21,6 +21,7 @@ Welcome to Python Programming, Citlali!
 Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution
+```python
 greeting="Welcome to Python Programming"
 print(greeting)
 user_name="Citlali"
