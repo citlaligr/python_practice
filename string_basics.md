@@ -1,17 +1,24 @@
-# 🧠 Exercise: Understand how to manipulate strings and prints them
-
 ## 📝 Problem
+Work with string variables by creating, displaying, and modifying text.
 
-Create a variable named greeting and assign it the string "Welcome to Python Programming".
+## Requirements
+- Create a variable named `greeting` with an initial message.
+- Display the original message.
+- Update the string to include an additional name.
+- Print the modified message.
 
-Print the greeting variable.
-
-Modify the string to include your instructor name "Rahul!". For example, "Welcome to Python Programming, [Instructor Name]!" and print the modified string.
-
-
-## Expected Output 
+## Expected Output
 Welcome to Python Programming
 Welcome to Python Programming, Rahul!
+
+## Concepts Practiced
+- Strings
+- Variable assignment
+- String concatenation / formatting
+- Print function
+
+## Source
+Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution
 greeting="Welcome to Python Programming"
