@@ -1,17 +1,25 @@
 # 🧠 Exercise: Count Lines in a File
 
 ## 📝 Problem
+Work with file handling by reading a text file and calculating the number of lines it contains.
 
-Objective: Count and print the number of lines in a file.
+## Requirements
+- Open a file named `file1.txt`.
+- Read the file line by line.
+- Count the total number of lines.
+- Display the final count in the console.
 
-Instructions:
-
-Use the attached text file "file1.txt"
-Write a Python script that opens the file, reads through it line by line, counts how many lines it has, and prints the total count.
-
-
-## Expected Output 
+## Expected Output
 Total number of lines: 5
+
+## Concepts Practiced
+- File handling
+- Iteration
+- Counting logic
+- Context managers (`with` statement)
+
+## Source
+Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution 1
 #This solution is better for big files
