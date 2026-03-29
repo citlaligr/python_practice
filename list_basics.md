@@ -1,18 +1,28 @@
 
-# 🧠 Exercise: Working with Lists
+# 🧠 Exercise: List Access and Slicing
 
 ## 📝 Problem
-Create a list named fruits that contains below five different fruit names (strings).
-- "apple", "banana", "cherry", "date", "elderberry"
+Practice working with lists by accessing elements and extracting subsets using slicing.
 
-Print the first and last elements of the list.
+## Requirements
+- Create a list named `fruits` containing multiple string values.
+- Access and display the first and last elements of the list.
+- Use slicing to extract and display a subset of elements (specifically the second and third items).
 
-Use slicing to print the second and third fruits from the list.
+## Expected Behavior
+- The program should print:
+  - The first element
+  - The last element
+  - A sublist containing the second and third elements
 
-## Expected Output 
-First fruit: apple
-Last fruit: elderberry
-Fruits from index 1 to 2: ['banana', 'cherry']
+## Concepts Practiced
+- Lists
+- Indexing
+- Negative indexing
+- List slicing
+
+## Source
+Exercise inspired by a Python course on Udemy.
 
 ---
 
