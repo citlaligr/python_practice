@@ -1,22 +1,32 @@
-# 🧠 Exercise: Handle Tuple modification exception with Try Catch
-
 ## 📝 Problem
+Work with a tuple to store basic personal information and explore its immutability.
 
-Create a tuple named person that contains three elements: a name (string), an age (integer), and a height (float) with the below values.
+## Requirements
+- Create a tuple named `person` with the following values:
+  - Name (string)
+  - Age (integer)
+  - Height (float)
 
-	- "Rahul"
-	- 25
-	- 5.9
+- Display the second element of the tuple.
+- Attempt to modify the name stored in the tuple.
+- Handle the resulting error using a try-except block.
 
-Print the second element of the tuple.
-Attempt to change the name in the tuple to a different name and explain why this will or will not work.
+## Expected Behavior
+- The program should print the second element (age).
+- An error should occur when trying to modify the tuple, demonstrating that tuples are immutable.
 
+## Concepts Practiced
+- Tuples
+- Immutability
+- Exception Handling (try-except)
+
+## Source
+Exercise inspired by a Python course on Udemy.
 
 ## 💻 Solution 
 
 person=("Rahul", 25, 5.9)
 print(f"Age: {person[1]}")
-
 
 try:
     person[0] = "John"
