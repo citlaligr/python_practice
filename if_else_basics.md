@@ -1,25 +1,35 @@
 
-# 🧠 Exercise: Practice using if-else statements.
+# 🧠 Exercise: Conditional Logic with If-Else Statements
 
 ## 📝 Problem
-Write a program that assigns a greeting to a variable.
-Use an if statement to check if the greeting is "Hello".
-If it matches, print "Hello there!" and "How can I assist you today?".
-If it does not match, print "Greetings!".
-After the if-else block, print "Program has completed."
+Practice using conditional statements to control program behavior based on variable values.
 
+## Requirements
+- Create a variable `greeting` and assign it a string value.
+- Use an `if-else` statement to evaluate the value of the variable:
+  - If the value is `"Hello"`, display a personalized greeting message.
+  - Otherwise, display a generic greeting.
+- After the conditional block, print a message indicating the program has finished execution.
 
-## Expected Output 
+## Expected Output
+
 If greeting is "Hello":
-
-Hello there!
-How can I assist you today?
+Hello there!  
+How can I assist you today?  
 Program has completed.
+
 If greeting is not "Hello":
-
-Greetings!
+Greetings!  
 Program has completed.
 
+## Concepts Practiced
+- Conditional statements (`if/else`)
+- String comparison
+- Control flow
+- Print statements
+
+## Source
+Exercise inspired by a Python course on Udemy.
 
 ---
 
