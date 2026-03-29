@@ -33,7 +33,7 @@ ItemsInCart=0
 #create a funcion that receive an integer parameter 
 def add_to_cart(items_to_add):
     #define ItemsInCart as a global variable
-    global ItemsInCart
+    global ItemsInCart 
     # if condition that can raise an exeption. Here we're considering only items_to_add  
     if items_to_add < 0:
         raise Exception("Cannot add a negative number of items")
