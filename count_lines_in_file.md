@@ -21,8 +21,9 @@ Total number of lines: 5
 ## Source
 Exercise inspired by a Python course on Udemy.
 
-## 💻 Solution 1
-```python
+## 💻 Solution
+```pyton
+#First Approach
 #This solution is better for big files
 
 #Creating a file for total count
@@ -36,7 +37,7 @@ with open("file1.txt") as file:
 #printing total of lines
 print(f"Total number of lines: {numberL}") 
 
-## 💻 Solution 2
+#Second Approach
 #This solution is better for small files
 
 ##opening file and closing automatically
