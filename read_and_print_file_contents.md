@@ -1,19 +1,29 @@
-# 🧠 Exercise: Read and Print File Contents
+# 🧠 Exercise: File Reading and Output
 
 ## 📝 Problem
+Work with file handling by reading and displaying the contents of a text file.
 
-Objective: Write a program to read the contents of a file and print it to the console.
+## Requirements
+- Open a file named `myfile.txt`.
+- Read all its contents.
+- Display the content in the console.
 
-Instructions:
+## Expected Behavior
+- The program should print the full content of the file without modifications.
 
-Write a Python script that opens the file file1.txt and reads all its contents.
-Print the entire content of the file.
+## Concepts Practiced
+- File handling
+- Reading files
+- Input/Output operations
+
+## Source
+Exercise inspired by a Python course on Udemy.
 
 
 ## 💻 Solution
 
 #opening the file and asign to an object
-file = open("file1.txt")
+file = open("myfile.txt")
 #print the file with the function read()
 print(file.read())
 #after open any file, always close it
