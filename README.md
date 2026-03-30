@@ -46,9 +46,9 @@ Basic exercises to practice core Python concepts:
 ### 🚀 Mini Projects
 Small projects that apply Python concepts in practical scenarios:
 
-- 🔐 Password Generator *(coming soon)*
-- 💰 Tip Calculator *(coming soon)*
-- 🎮 Rock Paper Scissors *(coming soon)*
+- 🔐 Password Generator *Exercise inspired by the course *100 Days of Code: The Complete Python Pro Bootcamp* on Udemy.*
+- 🏝️  Treasure Island *Exercise inspired by the course *100 Days of Code: The Complete Python Pro Bootcamp* on Udemy.*
+- 🎮 Rock Paper Scissors *Exercise inspired by the course *100 Days of Code: The Complete Python Pro Bootcamp* on Udemy.*
 
 ---
 
